@@ -1,1 +1,1 @@
-# animal_detector
+# animal_classifier
